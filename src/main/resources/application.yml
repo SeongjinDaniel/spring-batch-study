@@ -2,6 +2,8 @@ spring:
   profiles:
     active: local
 
+spring.batch.job.names: ${job.name:NONE}
+
 ---
 spring:
   profiles: local
@@ -16,7 +18,7 @@ spring:
   profiles: mysql
   datasource:
     hikari:
-      jdbc-url: jdbc:mysql://localhost:3306/spring_batch?useSSL=false
-      username: freelife
-      password: pass
+      jdbc-url: jdbc:mysql://localhost:3306/spring_batch?useSSL=false&allowPublicKeyRetrieval=true&allowMultiQueries=true
+      username: root
+      password: 1234
       driver-class-name: com.mysql.cj.jdbc.Driver
