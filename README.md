@@ -54,4 +54,4 @@ https://github.com/jojoldu/spring-batch-in-action
 ### 배포
 - [1. AWS Code Deploy로 배포 Jenkins에서 배치 Jenkins로 Spring Batch 배포하기 - 기본 환경 구성](https://jojoldu.tistory.com/313)
 - [2. AWS Code Deploy로 배포 Jenkins에서 배치 Jenkins로 Spring Batch 배포하기 - Code Deploy 연동](https://jojoldu.tistory.com/314)
-- [3. AWS Code Deploy로 배포 Jenkins에서 배치 Jenkins로 Spring Batch 배포하기 - 젠킨스 연동](https://jojoldu.tistory.com/315)
+- [3. AWS Code Deploy로 배포 Jenkins에서 배치 Jenkins로 Spring Batch 배포하기 - 젠킨스 연동](https://jojoldu.tistory.com/315)# spring-batch-study
